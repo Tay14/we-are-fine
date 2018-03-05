@@ -11,6 +11,16 @@
   * [placeholder]() -
   * [placeholder]() -
 ---
+### Style Guilde ###
+* **CSS BEM**
+* [a short tutorial](http://getbem.com/naming/)
+* Very basic methodology for CSS, you might need to write long class names but, it makes HTML and CSS super tidy and easy to read. There's some rules and a special BEM way for naming CSS classes, please read the above link.
+
+* **Js Standard Style**
+* [list of Js standard rules](https://standardjs.com/rules.html)
+* Simple to understand Js styling rules, almost every real world project uses this as standard, we don't have to follow every rules, only the first 10 or 15 rules is enough for us. 
+---
+
 ### Versioning: ###
 * The main reason I'm suggesting us to use version numbers is because we can mark every big moves in history during development, so we can easily go back in time if we made anything wrong or jump into future if we are fine.
 
