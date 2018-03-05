@@ -2,14 +2,14 @@
 *for git commands scroll to the bottom for Cheatsheet.*
 
 ### Links:
-* Jonas' Resources - An index page that links to nearly every possible website/resouces a web dev need.
-* Google Drive - Documentations and assets.
+* [Jonas' Resources](http://codingheroes.io/resources/) - An index page that links to nearly every possible website/resouces a web dev need.
+* [Google Drive](https://drive.google.com/drive/folders/1KOZXZVLx1-RXY13hTeQaqxnocDWswZJo?usp=sharing) - Documentations and assets.
 * Trello - Workflow, Planning, Timeline and etc.
-* placeholder - Design system.
+* [placeholder]() - Design system.
 * APIs:
-  * placeholder
-  * placeholder
-  * placeholder
+  * [placeholder]() -
+  * [placeholder]() -
+  * [placeholder]() -
 ---
 ### Versioning:
 The main reason I'm suggesting us to use version numbers is because we can mark every big moves in history during development, so we can easily go back in time if we made anything wrong or jump into future if we are fine. <br><br>
