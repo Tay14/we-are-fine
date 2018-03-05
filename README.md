@@ -30,13 +30,13 @@ v0.0.0 (1b2e1d6) -> commit ID, this is the first 7 digit shown in the git log.
 
 ### Commit & Push: ###
 * Always push to **dev branch** only.
-* Always Include **version number** inside commit message.
+* Always Include **version number** as tags for every commit that adds in **Minor Features**.
 * Commit/Push every **Minor Features**, personal preference on **Minor Bugs** or a limit of 10 changes/fixes.
 * Keep massages short, visible in **one line** and use **present tense** only.
 ---
 
 ### Branching: ###
-* To make branching as simple as possible, we are only having two branches, which is the **master branch** where possibly only two commit will be made, the initial commit and the final product. The other one will be the **development branch**, where all developing and bug fixing will take place.
+* To make branching as simple as possible, we are only having two branches, which is the **master branch** where possibly only two commit will be made, the initial commit and the final product. The other one will be the **development branch**, where all developing and bug fixing will take place, after confirmation the branch will merge with the master branch.
 ---
 
 ### Pull Request: ###
