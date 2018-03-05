@@ -46,6 +46,7 @@ v0.0.0 (1b2e1d6) -> commit ID, this is the first 7 digit shown in the git log.
 ### Git Cheatsheet: ###
 
 * If you are unsure with any command, try them out on your own repo or fork this project.
+![alt text](https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png)
 ---
 
 
