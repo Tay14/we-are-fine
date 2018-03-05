@@ -10,14 +10,15 @@
   * placeholder
 
 ### Versioning:
-Normally, the version number should be a tag but, to make it simple we'll have it inside parantheses at the front of every commit message e.g **(v0.1.2) fix border width.**
+Normally, there should be 3 digits in version numbers, since this is a small project we won't have that much bug/fix, we will have only the **Minor Features and Major Version.** e.g **v0.3 (1b2e1d63ff)**
+
 ```
-v0.0.0
+v0.0.0 (1b2e1d6) -> commit id, this is first 7 digit shown in the git log.
  ^ ^ ^
  | | |
- | | +--- Minor bugs (fixing Js, change text color, changing width/height and etc)
- | +----- Minor features (adding a div, a navbar, animations and etc)
- +------- Major version (a complete and functional product ready for testing/UX)
+ | | +--- *We are not using the Minor Bugs number
+ | +----- Minor Features (adding a div, a navbar, animations and etc)
+ +------- Major Version (a complete and functional product ready for testing/UX)
 ```
 
 ### Commit & Push:
