@@ -1,5 +1,5 @@
 # WE ARE FINE
-*for git commands scroll to the bottom for Cheatsheet.*
+*for git commands scroll to the bottom for Cheatsheet.* please check out this link http://rogerdudler.github.io/git-guide/
 
 ### Links: ###
 * [Jonas' Resources](http://codingheroes.io/resources/) - An index page that links to nearly every possible website/resouces a web dev need.
