@@ -12,7 +12,7 @@
 ### Versioning:
 The main reason I'm suggesting us to use version numbers is because we can mark every big moves in history during development, so we can easily go back in time if we made anything wrong or jump into future if we are fine. <br><br>
 
-The versions will be put onto commits as tags, there's a specific page on the front page of the repository where you can view all the tags, so we can see all the big moments in a glance. <br><br>
+The versions will be put onto commits as tags, there's a specific page on the front page of the repository where you can view all the tags in a glance, also we can easily git reset the files using a tag to our desired version <br><br>
 
 Normally, there should be 3 digits in version numbers, since this is a small project we won't have that much bug/fix, we will have only the **Minor Features and Major Version.** e.g **v0.3 (1b2e1d63ff)**
 
