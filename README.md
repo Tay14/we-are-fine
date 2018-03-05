@@ -2,6 +2,7 @@
 *for git commands scroll to the bottom for Cheatsheet.*
 
 ### Links:
+* Jonas' Resources - An index page that links to nearly every possible website/resouces a web dev need.
 * Google Drive - Documentations and assets.
 * Trello - Workflow, Planning, Timeline and etc.
 * placeholder - Design system.
@@ -26,6 +27,7 @@ v0.0.0 (1b2e1d6) -> commit ID, this is the first 7 digit shown in the git log.
  +------- Major Version (a complete and functional product ready for testing/UX)
 ```
 ---
+
 ### Commit & Push:
 * Always push to **dev branch** only.
 * Always Include **version number** inside commit message.
@@ -33,5 +35,15 @@ v0.0.0 (1b2e1d6) -> commit ID, this is the first 7 digit shown in the git log.
 * Keep massages short, visible in **one line** and use **present tense** only.
 ---
 
+### Branching
+---
+
+### Pull Request
+---
+
 ### Git Cheatsheet:
-If you are unsure with any command, try them out on your own repo or fork the project.
+If you are unsure with any command, try them out on your own repo or fork this project.
+---
+
+
+
