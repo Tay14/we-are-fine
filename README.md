@@ -1,5 +1,13 @@
 # WE ARE FINE
 
+### Links:
+* Google Drive - Documentations and assets.
+* Trello - Workflow, Planning, Timeline and etc.
+* placeholder - Design system.
+* APIs:
+  * placeholder
+  * placeholder
+  * placeholder
 
 ### Versioning:
 Normally, the version number should be a tag but, to make it simple we'll have it inside parantheses at the front of every commit message e.g **(v0.1.2) fix border width.**
@@ -16,6 +24,7 @@ v0.0.0
 * Always push to **dev branch** only.
 * Always Include **version number** inside commit message.
 * Commit/Push every **Minor Features**, personal preference on **Minor Bugs** or a limit of 10 changes/fixes.
+* Keep massages short, visible in **one line** and use **present tense** only.
 
 ### Git Cheatsheet:
-If you are unsure with any command, try them out on your own repo or fork this one.
+If you are unsure with any command, try them out on your own repo or fork the project.
