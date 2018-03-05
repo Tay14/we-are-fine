@@ -4,7 +4,7 @@
 ### Links: ###
 * [Jonas' Resources](http://codingheroes.io/resources/) - An index page that links to nearly every possible website/resouces a web dev need.
 * [Google Drive](https://drive.google.com/drive/folders/1KOZXZVLx1-RXY13hTeQaqxnocDWswZJo?usp=sharing) - Documentations and assets.
-* Trello - Workflow, Planning, Timeline and etc.
+* [Trello](https://trello.com/b/L4iYkcA0/data-visualisation) - Workflow, Planning, Timeline and etc.
 * [placeholder]() - Design system.
 * APIs:
   * [placeholder]() -
