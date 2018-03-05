@@ -10,6 +10,7 @@
   * placeholder
 
 ### Versioning:
+The main reason I'm suggesting us to use version numbers is because we can mark every big moves in history during development, so we can easily go back in time if we made anything wrong or jump into future if we are fine. <br><br>
 Normally, there should be 3 digits in version numbers, since this is a small project we won't have that much bug/fix, we will have only the **Minor Features and Major Version.** e.g **v0.3 (1b2e1d63ff)**
 
 ```
