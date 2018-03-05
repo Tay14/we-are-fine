@@ -40,7 +40,7 @@ v0.0.0 (1b2e1d6) -> commit ID, this is the first 7 digit shown in the git log.
 ---
 
 ### Pull Request: ###
-* This is just to protect our master branch from accidently merge, we don't really have to worry about this until the near end of the project where we are merging our final product.
+* This is just to protect our master branch from accidently merge, we don't really have to worry about this until the near end of the project where we are merging our final product. Git will reject your push if you accidently push to master branch
 ---
 
 ### Git Cheatsheet: ###
